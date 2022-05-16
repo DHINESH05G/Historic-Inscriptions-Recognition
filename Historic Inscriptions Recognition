@@ -1,0 +1,7 @@
+The Historic Inscriptions Recognition is one of the most well-known ancient writing systems in many parts of India with Epigraphic 
+records found in Rock edicts and Stone Hero. Although these texts are a rich source of history, very few applications have been developed to 
+detect and translate ancient Tamil script characters. This is due to the lack of proper data and very few experts in these ancient texts that 
+were lost long ago. In addition, many stone texts are in a condition that requires image enhancement and sound removal after photography. 
+The aim of this project is to improve the structure to deal with anonymous documents in a systematic way and to organize the data needed for 
+future work. In addition, the aim of this project is to come up with a way that overcomes the challenges of dealing with stone texts to make 
+it easier to translate, using Convolutional Neural Networks and other in-depth learning methods.
